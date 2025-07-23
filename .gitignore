@@ -13,6 +13,9 @@ venv/
 # Log files
 *.log
 
+# faiss vector store
+faiss_index/
+
 # Cache
 *.cache/
 .cache/
